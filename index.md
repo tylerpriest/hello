@@ -1,5 +1,3 @@
-## I love HELLOFRESH.com.au
-
 ![Image](http://ilovehellofresh.com/assets/images/ilovehellofresh-logo-v2.png)
 
 ## I love HELLOFRESH.com.au

@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## I love hellofresh.com.au
 
-You can use the [editor on GitHub](https://github.com/tylerpriest/ilovehellofresh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello. My name is Tyler and I love Hello Fresh. As an friendly-20-something who loves cooking food, Hello Fresh helps me new meals I've never tried and eat amazing food! I love it and you will too.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What I also love is free stuff - particularly free Hello Fresh credit. So if you sign up to Hello Frssh using my invite link we both get $30 credit (how good is that!!!)
 
 ### Markdown
 
